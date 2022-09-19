@@ -14,7 +14,7 @@ Unfortunately, the IT department has been busy dealing with network and computer
 
 You and your team will have to create everything you need to manage the conference.
 
-You talked to your friends in the IT department, and agree that you'll use the tools that are at your disposal -- like SharePoint and Power Apps -- to create what you need in time for the conference.
+You talked to your friends in the IT department, and agree that you'll use the tools that are at your disposal -- like SharePoint -- to manage the data you need for the conference.
 
 Hopefully, the IT team will be able to help improve your solution in time before the next conference.
 
@@ -23,7 +23,7 @@ Hopefully, the IT team will be able to help improve your solution in time before
 For this lab, you'll need:
 
 - Access to a SharePoint online tenant
-- Access to a Dataverse developer environment
+
 
 ## Exercise 1: Create a SharePoint site
 
