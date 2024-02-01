@@ -5,3 +5,5 @@ This workshop is dedicated to exploring the intersection of Generative AI and Mi
 
 - [Lab 1: Pre-requisites](Lab01/README.md)
 - [Lab 2: Setting up an Azure Subscription](Lab02/README.md)
+- [Lab 3: Azure AI Studio Walkthrough](Lab03/README.md)
+- [Lab 4: Create a Custom Connector](Lab04/README.md)
