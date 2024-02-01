@@ -1,3 +1,5 @@
 {
-    "frontMatter.content.pageFolders": []
+    "frontMatter.content.pageFolders": [],
+    "pasteImage.basePath": "${currentFileDir}/assets",
+    "pasteImage.defaultName": "YMMDDHHmmss"
 }
